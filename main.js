@@ -7,7 +7,7 @@ console.log("Hello World!");
 //console.timeEnd()
 
 let name = "Lee";
-let age = 25;
+let age = 22;
 let isSingle = false;
 let hobby =["watching anime","playing basketball","Playing video games"];
 let jsonObject ={ name: name, age: age, isSingle: isSingle, hobby: hobby};
